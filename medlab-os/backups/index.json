@@ -1,6 +1,6 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2026-04-08T07:16:27.517827200+00:00",
+  "_savedAt": "2026-04-08T07:18:10.082234+00:00",
   "backups": [
     {
       "createdAt": "2026-04-08T07:10:39.690Z",
@@ -16,6 +16,11 @@
       "createdAt": "2026-04-08T07:16:25.638Z",
       "name": "medlab-backup-2026-04-08T07-16-25-637Z.zip",
       "path": "medlab-os/backups/data/medlab-backup-2026-04-08T07-16-25-637Z.json"
+    },
+    {
+      "createdAt": "2026-04-08T07:18:08.190Z",
+      "name": "medlab-backup-2026-04-08T07-18-08-189Z.zip",
+      "path": "medlab-os/backups/data/medlab-backup-2026-04-08T07-18-08-189Z.json"
     }
   ],
   "git": {
@@ -24,5 +29,5 @@
     "repo": "MedLab-Backup"
   },
   "indexKind": "medlab-os-backup-index",
-  "updatedAt": "2026-04-08T07:16:27.516Z"
+  "updatedAt": "2026-04-08T07:18:10.081Z"
 }
